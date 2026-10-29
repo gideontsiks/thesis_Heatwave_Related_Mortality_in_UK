@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Generated figures
+thesis_figures/
+# Raw inputs are not tracked (place them locally under data/)
+data/Data/
+data/uploads/
+data/*.txt
